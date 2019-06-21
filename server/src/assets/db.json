@@ -1,0 +1,27 @@
+[{
+        "title": "Análisis Xiaomi Mi 9T: barato y completo, qué mas puedes pedir",
+        "description": "Probamos el nuevo modelo de Xiaomi, un terminal de gama media alta con un precio contenido, el Xiaomi Mi 9T, también conocido como Redmi K20.",
+        "date": "1561129232",
+        "content": "Hace unas semanas Redmi presentó en China sus nuevos terminales de gama alta. A decir verdad, eran sus primeros terminales de gama alta, los Redmi K20 y Redmi K20 Pro. Y como es lógico, muchos usuarios internacionales esperaban que se pusieran a la venta en sus países, ahora que Redmi había salido de las fronteras chinas con el Redmi Note 7. Así ha sido, en parte. Xiaomi ha decidido que iba a sacar de China a uno de los dos modelos, el menos impactante en potencia, pero también el mas barato, el Redmi K20. Pero no lo iba a sacar con ese nombre, sino dentro de su familia de gama alta, los Xiaomi Mi. Y así fue cómo se presentó en España el Xiaomi Mi 9T, un terminal que, salvo por el logotipo de la zona trasera, es exactamente el mismo que el Redmi K20.",
+        "author": "Álvarez del Vayo",
+        "img":"https://www.muycomputer.com/wp-content/uploads/2019/04/Xiaomi_Mi9SE.jpg",
+        "archiveDate":null
+},
+{
+        "title": "Divulgan varios exploits para vulnerabilidades zero-day que afectan a Microsoft",
+        "description": "Investigador independiente divulgó una serie de pruebas de concepto para vulnerabilidades zero-day en Windows 10 y otros servicios de Microsoft",
+        "date": "1498057232",
+        "content":"En menos de 48 horas, una investigadora divulgó una serie de pruebas de concepto (PoC) para distintas vulnerabilidades zero-day que afectan a distintos servicios de Microsoft. Se trata de un bug en el Administrador de Tareas de Windows 10, fallos que afectan a los servicios de Windows Error Reporting de Microsoft y de Internet Explorer 11 y, por si fuera poco, en las últimas horas publicó en GitHub el código de una nueva PoC que permite evadir el parche lanzado para mitigar una vulerabilidad que había sido corregida en abril de este año.Bajo el seudónimo de SandBoxEscaper, la investigadora independiente primero publicó el día martes en GitHub el código de una PoC para explotar una vulnerabilidad zero-day en Windows 10 que, según explica, reside en el Administrador de Tareas; un proceso conocido en inglés como Task Sheduler. Se trata de una vulnerabilidad que permite escalar privilegios y que habilitaría a un atacante a ejecutar código con privilegios de administrador en las máquinas comprometidas hasta incluso permitir tomar control total del equipo.in embargo, según explicó Microsoft al medio Zdnet, este bug fue parcheado hace una semana con el lanzamiento de las actualizaciones de seguridad correspondientes al mes de mayo de 2019, la cual tiene como referencia la CVE-2019-0863. Según explica el medio, este fallo había sido reportado, por lo que los detalles publicados recientemente por la investigadora se tratan del código para explotrar una vulnerabilidad que ya se parcheó.",
+        "author": "Juan Manuel Harán",
+        "img":"https://www.extremetech.com/wp-content/uploads/2015/08/Windows-10-640x353.jpg",
+        "archiveDate":null
+},
+{
+        "title": "SACK Panic: la vulnerabilidad detectada por Netflix que lleva en Linux más de 10 años",
+        "description": "SACK Panic: la vulnerabilidad que puede generar un Kernel Panic en tu ordenador o servidor",
+        "date": "1529593232",
+        "content":"Aunque por lo general cuando hablamos de vulnerabilidades o fallos de seguridad solemos hacer referencia a Windows, los demás sistemas operativos, como Linux y macOS, también suelen verse afectados por importantes fallos que pueden poner en peligro la seguridad y estabilidad de los equipos o servidores que los ejecutan. Hoy es es turno de hablar de SACK Panic, una de las 3 nuevas vulnerabilidades encontradas en Linux por investigadores de Netflix que llevan poniendo en peligro los sistemas desde hace más de 10 años.Un investigador de seguridad de Netflix daba a conocer hace algunas horas una serie de vulnerabilidades que había descubierto en el Kernel Linux y que afectaba a cualquier distribución basada en Linux, así como a FreeBSD. Estos fallos se encuentran en la forma en la que el Kernel Linux procesa las conexiones TCP y, al explotarlas, puede dar lugar a un Kernel Panic, el equivalente al pantallazo azul de Linux.SACK Panic es la vulnerabilidad más importante y crítica de estas 3. Esta ha sido registrada como CVE-2019-11477 y ha sido considerada como de peligrosidad importante con una nota de 7.5 sobre 10 en CVSS3. Las otras dos vulnerabilidades, CVE-2019-11478 y CVE-2019-11479, han sido consideradas como vulnerabilidades de peligrosidad moderada.",
+        "author": "Juan Manuel Harán",
+        "img":"https://news-cdn.softpedia.com/images/news2/fysbis-the-linux-backdoor-used-by-russian-hackers-500367-2.png",
+        "archiveDate":null
+}]
